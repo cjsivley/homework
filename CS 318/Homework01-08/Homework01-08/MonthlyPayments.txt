@@ -1,0 +1,12 @@
+Codey Sivley
+Monthly Payments
+01/08/2020
+
+=======================================
+Loan Amount:                   425000.00
+Monthly interest rate:              0.26
+Number of payments:               300.00
+Monthly payment:                 2048.72
+Amount paid back:              614615.31
+Interest paid:                 189615.31
+---------------------------------------

@@ -1,0 +1,6 @@
+﻿  Homework01-08.cpp
+C:\Users\Codey\Documents\CS 318\Homework01-08\Homework01-08\Homework01-08.cpp(47,10): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Codey\Documents\CS 318\Homework01-08\Homework01-08\Homework01-08.cpp(48,13): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Codey\Documents\CS 318\Homework01-08\Homework01-08\Homework01-08.cpp(49,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Codey\Documents\CS 318\Homework01-08\Homework01-08\Homework01-08.cpp(51,19): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  Homework01-08.vcxproj -> C:\Users\Codey\Documents\CS 318\Homework01-08\Debug\Homework01-08.exe

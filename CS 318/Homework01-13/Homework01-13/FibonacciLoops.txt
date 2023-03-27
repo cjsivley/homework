@@ -1,0 +1,13 @@
+Codey Sivley
+Fibonacci Loops
+01/13/2020
+=======================================
+For Loop Version
+At the end of day 88, there are 25840 pounds of green crud.
+=======================================
+Do While Version
+At the end of day 88, there are 25840 pounds of green crud.
+=======================================
+While Version
+At the end of day 88, there are 25840 pounds of green crud.
+=======================================

@@ -1,0 +1,2 @@
+C:\Users\User\Documents\CS 415 Operating Sys\CS 415 Parsing Function\Debug\CS 415 Parsing Function.exe
+C:\Users\User\Documents\CS 415 Operating Sys\CS 415 Parsing Function\Debug\CS 415 Parsing Function.pdb

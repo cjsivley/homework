@@ -1,0 +1,16 @@
+1. Read in the values into the array.  The input is found in     array.dat
+2. Print out all the values in the array with no more than 10 numbers per output line.
+3. Print out the average of the set of numbers.
+4. Print out how many values are larger than the average and how many are smaller than the average.  Pass average as a parameter.
+5. Convert every negative number to a positive number.  Print out the array.
+6. Print out the average of the set of numbers.
+7. Find the largest number and print out the number and its position.
+8. Find the smallest number and print out the number and its position.
+9. Zero out all even numbers in the array and print out the array.
+10. Print out the average for the new array.
+11. How many values in the array (above) are less than (first input)?
+12. How many values in the array are greater than (second input)?
+13. How many data elements in the array are greater than the (third input)th data element in the array?  (That would be ary[input]???) 
+14. How many numbers in the array are multiples of (fourth input) and (fifth input)?
+15. Create a second array.  Copy all the data elements from the first array to the second array.  Print out the second array
+16. Now copy all the data elements from the first array to the second array in reverse order.  Print out the second array.

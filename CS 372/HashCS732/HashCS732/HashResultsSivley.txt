@@ -1,0 +1,196 @@
+Codey Sivley
+Hash Table CS372 Result
+11/01/2020
+========================================
+Ticker: 60
+Collisions: 2
+Wasted Space: 34
+0.56962% full
+--- Display Table ---
+0: Empty. 
+
+Index: 1 || Name: Currie W. D. || Phone: 701-4281
+Index: 1 || Name: Cant B Leave || Phone: 284-5762
+
+Index: 2 || Name: Ah C Mowtoe || Phone: 334-8294
+
+Index: 3 || Name: Taylor marie || Phone: 939-1512
+Index: 3 || Name: Bee Yond Lawz || Phone: 634-2454
+
+Index: 4 || Name: mack russell || Phone: 123-1234
+Index: 4 || Name: Sid MacGriddy || Phone: 882-2424
+
+Index: 5 || Name: Big I KanC || Phone: 878-0129
+
+6: Empty. 
+
+7: Empty. 
+
+Index: 8 || Name: Man Oh Mann || Phone: 313-7422
+
+Index: 9 || Name: Snow White || Phone: 111-9999
+
+Index: 10 || Name: Hauser Yauser || Phone: 606-2940
+
+Index: 11 || Name: Lewis Michelle Tee || Phone: 828-2148
+Index: 11 || Name: Morier G. E. || Phone: 544-2319
+
+Index: 12 || Name: lea high lee || Phone: 266-8324
+
+Index: 13 || Name: stephens reynolds || Phone: 696-9231
+
+Index: 14 || Name: Chipoff E Oblock || Phone: 773-4152
+Index: 14 || Name: Smelly Tau || Phone: 707-7281
+Index: 14 || Name: TooB OrNot || Phone: 283-5214
+
+Index: 15 || Name: Big Tow || Phone: 384-5624
+
+16: Empty. 
+
+17: Empty. 
+
+18: Empty. 
+
+Index: 19 || Name: G P Morier || Phone: 832-4562
+
+20: Empty. 
+
+Index: 21 || Name: Hofstra M. || Phone: 601-3225
+
+22: Empty. 
+
+Index: 23 || Name: Znot Noz Oozey || Phone: 531-4353
+
+24: Empty. 
+
+25: Empty. 
+
+Index: 26 || Name: Malioneyh P. J. || Phone: 287-4344
+
+Index: 27 || Name: Trigger Phanger || Phone: 421-3435
+Index: 27 || Name: Booger Runs || Phone: 822-7724
+
+Index: 28 || Name: Sticky Finger McRidder || Phone: 829-9853
+
+29: Empty. 
+
+30: Empty. 
+
+31: Empty. 
+
+Index: 32 || Name: Pha Sweed Doe || Phone: 243-9233
+
+Index: 33 || Name: LessGo Eat || Phone: 233-1984
+
+Index: 34 || Name: Jimmy Jones || Phone: 382-4413
+
+35: Empty. 
+
+36: Empty. 
+
+37: Empty. 
+
+38: Empty. 
+
+Index: 39 || Name: james wilis thomas || Phone: 261-8342
+Index: 39 || Name: Stone Rock || Phone: 544-2372
+
+Index: 40 || Name: Mighty Mouse || Phone: 222-2222
+
+Index: 41 || Name: Mister Rogers || Phone: 924-7221
+Index: 41 || Name: Thor Thumb || Phone: 833-6391
+
+42: Empty. 
+
+43: Empty. 
+
+Index: 44 || Name: Cray Z. Cyco || Phone: 134-7242
+Index: 44 || Name: Hoos R. Dadie || Phone: 818-3821
+
+45: Empty. 
+
+Index: 46 || Name: Antoney Wenner || Phone: 999-3255
+Index: 46 || Name: E Lec Shaun || Phone: 709-7424
+
+Index: 47 || Name: Oe vey || Phone: 177-1423
+
+Index: 48 || Name: So Pos Twobe || Phone: 840-9933
+Index: 48 || Name: Lu C Kant || Phone: 247-7345
+
+Index: 49 || Name: Knot Dun Uet || Phone: 729-5223
+
+Index: 50 || Name: Tobe Ore Knott || Phone: 613-2414
+
+51: Empty. 
+
+Index: 52 || Name: Hewy Lewy Dewy || Phone: 623-9921
+
+53: Empty. 
+
+54: Empty. 
+
+55: Empty. 
+
+Index: 56 || Name: Legg T. || Phone: 587-2839
+
+57: Empty. 
+
+Index: 58 || Name: Hasey Moto || Phone: 823-8000
+
+59: Empty. 
+
+60: Empty. 
+
+Index: 61 || Name: john marshall || Phone: 888-2891
+
+Index: 62 || Name: Zeventh Heaven || Phone: 834-2563
+
+Index: 63 || Name: Tyson Chicken || Phone: 602-3152
+Index: 63 || Name: SixOne Other || Phone: 843-2343
+
+64: Empty. 
+
+Index: 65 || Name: Twoseeor knocksee || Phone: 823-8321
+
+Index: 66 || Name: Hack N Zakkers || Phone: 231-4449
+
+67: Empty. 
+
+68: Empty. 
+
+Index: 69 || Name: Knot Yet Dun || Phone: 732-2452
+
+70: Empty. 
+
+Index: 71 || Name: Lase Won || Phone: 928-2824
+
+Index: 72 || Name: Fanny Pac Jac || Phone: 842-3242
+Index: 72 || Name: R Wee Phinish || Phone: 745-8432
+Index: 72 || Name: Joe Mac Nificant || Phone: 430-1094
+
+73: Empty. 
+
+Index: 74 || Name: Six One Another || Phone: 829-8221
+
+Index: 75 || Name: Tau Jam || Phone: 532-6871
+
+76: Empty. 
+
+Index: 77 || Name: Juan Legged || Phone: 882-6246
+
+78: Empty. 
+
+--- End Display ---
+--- Search Test ---
+Search for 'Antoney Wenner':
+
+Index: 46 || Name: Antoney Wenner || Phone: 999-3255
+Probes: 1
+Search for 'R Wee Phinish':
+
+Index: 72 || Name: R Wee Phinish || Phone: 745-8432
+Probes: 2
+Search for 'I'm Not Here':
+
+No match found for I'm Not Here.
+Key: 23, Probes: 1

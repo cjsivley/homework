@@ -1,0 +1,7 @@
+﻿  Exam1Scratchpad.cpp
+C:\Users\User\Documents\CS 417\Exam1Scratchpad\Exam1Scratchpad\Exam1Scratchpad.cpp(28,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\CS 417\Exam1Scratchpad\Exam1Scratchpad\Exam1Scratchpad.cpp(44,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\User\Documents\CS 417\Exam1Scratchpad\Exam1Scratchpad\Exam1Scratchpad.cpp(54,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Documents\CS 417\Exam1Scratchpad\Exam1Scratchpad\Exam1Scratchpad.cpp(55,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\User\Documents\CS 417\Exam1Scratchpad\Exam1Scratchpad\Exam1Scratchpad.cpp(58,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Exam1Scratchpad.vcxproj -> C:\Users\User\Documents\CS 417\Exam1Scratchpad\Debug\Exam1Scratchpad.exe

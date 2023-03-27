@@ -1,0 +1,6 @@
+﻿  Homework01-27.cpp
+C:\Users\Codey\Documents\CS 318\Homework01-27\Homework01-27\Homework01-27.cpp(117,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Codey\Documents\CS 318\Homework01-27\Homework01-27\Homework01-27.cpp(120,56): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Codey\Documents\CS 318\Homework01-27\Homework01-27\Homework01-27.cpp(123,63): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Codey\Documents\CS 318\Homework01-27\Homework01-27\Homework01-27.cpp(185,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+  Homework01-27.vcxproj -> C:\Users\Codey\Documents\CS 318\Homework01-27\Debug\Homework01-27.exe

@@ -1,0 +1,11 @@
+Codey Sivley
+Sentinal Average Exercise
+01/13/2020
+Run Number 5
+=======================================
+Numbers          Sum   Average
+---------------------------------------
+0                  0 -nan(ind)
+---------------------------------------
+Numbers entered: 
+

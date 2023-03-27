@@ -1,0 +1,88 @@
+Microsoft (R) Macro Assembler Version 14.24.28316.0	    02/09/21 22:18:43
+1Add and Subtract, Version 2         (AddSub2.asm	     Page 1 - 1
+
+
+				TITLE Add and Subtract, Version 2         (AddSub2.asm)
+
+				; Codey Sivley
+				; CS340 Dr Rimes
+				; Equation Assignment
+
+				INCLUDE Irvine32.inc
+			      C ; Include file for Irvine32.lib             (Irvine32.inc)
+			      C 
+			      C ;OPTION CASEMAP:NONE		; optional: make identifiers case-sensitive
+			      C 
+			      C INCLUDE SmallWin.inc		; MS-Windows prototypes, structures, and constants
+			      C .NOLIST
+			      C .LIST
+			      C 
+			      C INCLUDE VirtualKeys.inc
+			      C ; VirtualKeys.inc
+			      C .NOLIST
+			      C .LIST
+			      C 
+			      C 
+			      C .NOLIST
+			      C .LIST
+			      C 
+
+ 00000000			.data
+ 00000000 00000014		varA     dword  20
+ 00000004 0000000C		varB     dword  12
+ 00000008 00000024		varC     dword  36
+ 0000000C 00000034		varD     dword  52
+ 00000010 00000000		tmp1     dword  ?
+ 00000014 00000009		cons     dword  9
+ 00000018 00000000		res1     dword  ?
+ 0000001C 00000000		res2     dword  ?
+
+ 00000000			.code
+ 00000000			main PROC
+						;Equation 1: (a+b)*3+(d-c)*2+9
+ 00000000  A1 00000000 R		mov eax,varA
+ 00000005  03 05 00000004 R		add eax,varB
+						;don't know how to multiply, so I'll just add a few times
+ 0000000B  8B D8			mov ebx,eax
+ 0000000D  03 C3			add eax,ebx
+ 0000000F  03 C3			add eax,ebx
+						;halfway done, move to temp
+ 00000011  A3 00000010 R		mov tmp1,eax
+						;right half of problem
+ 00000016  A1 0000000C R		mov eax, varD
+ 0000001B  2B 05 00000008 R		sub eax, varC
+						;multiply
+ 00000021  8B D8			mov ebx, eax
+ 00000023  03 C3			add eax, ebx
+						;add them up
+ 00000025  03 05 00000010 R		add eax, tmp1
+ 0000002B  03 05 00000014 R		add eax, cons
+ 00000031  A3 00000018 R		mov res1, eax ;I suppose it would be good to move it back to memory
+
+						;Equation 2: (a-b)*3+(d+c)*2-9
+ 00000036  8B 1D 00000000 R		mov ebx, varA
+ 0000003C  2B 1D 00000004 R		sub ebx, varB
+						;multiply
+ 00000042  8B CB			mov ecx, ebx
+ 00000044  03 D9			add ebx, ecx
+ 00000046  03 D9			add ebx, ecx
+						;move to temp
+ 00000048  89 1D 00000010 R		mov tmp1, ebx
+						;right half again
+ 0000004E  8B 1D 0000000C R		mov ebx, varD
+ 00000054  03 1D 00000008 R		add ebx, varC
+ 0000005A  8B CB			mov ecx, ebx
+						;multiply
+ 0000005C  03 D9			add ebx, ecx
+						;sub nine and add the first half
+ 0000005E  2B 1D 00000014 R		sub ebx, cons
+ 00000064  03 1D 00000010 R		add ebx, tmp1
+ 0000006A  89 1D 0000001C R		mov res2, ebx
+
+ 00000070  E8 00000000 E		call	DumpRegs			; display the registers
+
+					exit
+ 00000075  6A 00	   *	    push   +000000000h
+ 00000077  E8 00000000 E   *	    call   ExitProcess
+ 0000007C			main ENDP
+				END main

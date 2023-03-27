@@ -1,0 +1,141 @@
+Codey Sivley
+For Dr. Rimes CS 372
+11/10/2020
+--------------------
+Stack And Queue
+--------------------
+Checking ()
+(, ) @ index 1. Match.
+-----------------------
+Checking []()[]
+[, ] @ index 1. Match.
+(, ) @ index 3. Match.
+[, ] @ index 5. Match.
+-----------------------
+Checking [{()}]
+(, ) @ index 3. Match.
+{, } @ index 4. Match.
+[, ] @ index 5. Match.
+-----------------------
+Checking [[))
+[, ) @ index 2. Mismatch.
+[, ) @ index 3. Mismatch.
+-----------------------
+Checking [()]][
+(, ) @ index 2. Match.
+[, ] @ index 3. Match.
+[, ] @ index 4. Match.
+-----------------------
+Checking ((()))[()()]
+(, ) @ index 3. Match.
+(, ) @ index 4. Match.
+(, ) @ index 5. Match.
+(, ) @ index 8. Match.
+(, ) @ index 10. Match.
+[, ] @ index 11. Match.
+-----------------------
+Checking {()[()]}
+(, ) @ index 2. Match.
+(, ) @ index 5. Match.
+[, ] @ index 6. Match.
+{, } @ index 7. Match.
+-----------------------
+Is ABCDEDCBA a palindrome?
+A , A: Match.
+B , B: Match.
+C , C: Match.
+D , D: Match.
+E , E: Match.
+D , D: Match.
+C , C: Match.
+B , B: Match.
+A , A: Match.
+-----------------------
+Is NOTAPALINDROME a palindrome?
+E , N: Mismatch.
+M , O: Mismatch.
+O , T: Mismatch.
+R , A: Mismatch.
+D , P: Mismatch.
+N , A: Mismatch.
+I , L: Mismatch.
+L , I: Mismatch.
+A , N: Mismatch.
+P , D: Mismatch.
+A , R: Mismatch.
+T , O: Mismatch.
+O , M: Mismatch.
+N , E: Mismatch.
+-----------------------
+Is ISAPALINILAPASI a palindrome?
+I , I: Match.
+S , S: Match.
+A , A: Match.
+P , P: Match.
+A , A: Match.
+L , L: Match.
+I , I: Match.
+N , N: Match.
+I , I: Match.
+L , L: Match.
+A , A: Match.
+P , P: Match.
+A , A: Match.
+S , S: Match.
+I , I: Match.
+-----------------------
+Is 2A3MEAS a palindrome?
+S , 2: Mismatch.
+A , A: Match.
+E , 3: Mismatch.
+M , M: Match.
+3 , E: Mismatch.
+A , A: Match.
+2 , S: Mismatch.
+-----------------------
+Is ATOYOTA a palindrome?
+A , A: Match.
+T , T: Match.
+O , O: Match.
+Y , Y: Match.
+O , O: Match.
+T , T: Match.
+A , A: Match.
+-----------------------
+Is (({}[][]{}(( a palindrome?
+( , (: Match.
+( , (: Match.
+} , {: Mismatch.
+{ , }: Mismatch.
+] , [: Mismatch.
+[ , ]: Mismatch.
+] , [: Mismatch.
+[ , ]: Mismatch.
+} , {: Mismatch.
+{ , }: Mismatch.
+( , (: Match.
+( , (: Match.
+-----------------------
+Is Tattarrattat a palindrome?
+t , T: Mismatch.
+a , a: Match.
+t , t: Match.
+t , t: Match.
+a , a: Match.
+r , r: Match.
+r , r: Match.
+a , a: Match.
+t , t: Match.
+t , t: Match.
+a , a: Match.
+T , t: Mismatch.
+-----------------------
+Is racecar a palindrome?
+r , r: Match.
+a , a: Match.
+c , c: Match.
+e , e: Match.
+c , c: Match.
+a , a: Match.
+r , r: Match.
+-----------------------

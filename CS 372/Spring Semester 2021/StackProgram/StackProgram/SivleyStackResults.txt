@@ -1,0 +1,92 @@
+Codey Sivley
+For Dr. Rimes CS 372
+02/06/2021
+------------------------------------------------
+Stack Program Result
+------------------------------------------------
+Push 64
+Push 40
+Push 57
+Push 48
+Push 67
+Pop off 67, Max value: 64
+Pop off 48, Max value: 64
+Push 72
+Push 15
+Pop off 15, Max value: 72
+Pop off 72, Max value: 64
+Pop off 57, Max value: 64
+Pop off 40, Max value: 64
+Pop off 64, Max value: 0
+Push 2
+Push 6
+Push 4
+Push 3
+Push 8
+Pop off 8, Max value: 6
+Push 54
+Push 50
+Push 84
+Push 64
+Pop off 64, Max value: 84
+Pop off 84, Max value: 54
+Pop off 50, Max value: 54
+Pop off 54, Max value: 6
+Pop off 3, Max value: 6
+Push 93
+Push 40
+Pop off 40, Max value: 93
+Pop off 93, Max value: 6
+Pop off 4, Max value: 6
+Pop off 6, Max value: 2
+Push 50
+Push 59
+Pop off 59, Max value: 50
+Push 89
+Push 77
+Push 25
+Push 30
+Push 44
+Push 64
+Push 91
+Push 43
+Push 94
+Push 86
+Pop off 86, Max value: 94
+Pop off 94, Max value: 91
+Pop off 43, Max value: 91
+Pop off 91, Max value: 89
+Pop off 64, Max value: 89
+Pop off 44, Max value: 89
+Pop off 30, Max value: 89
+Pop off 25, Max value: 89
+Push 42
+Push 60
+Push 40
+Pop off 40, Max value: 89
+Push 72
+Push 33
+Push 92
+Push 76
+Push 59
+Push 70
+Pop off 70, Max value: 92
+Pop off 59, Max value: 92
+Pop off 76, Max value: 92
+Pop off 92, Max value: 89
+Pop off 33, Max value: 89
+Pop off 72, Max value: 89
+Pop off 60, Max value: 89
+Push 89
+Push 84
+Push 76
+Push 66
+Push 80
+Pop off 80, Max value: 89
+Pop off 66, Max value: 89
+Pop off 76, Max value: 89
+Pop off 84, Max value: 89
+Pop off 89, Max value: 89
+Pop off 42, Max value: 89
+Pop off 77, Max value: 89
+Pop off 89, Max value: 50

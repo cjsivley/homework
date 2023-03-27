@@ -1,0 +1,86 @@
+Push 64
+Push 40
+Push 57
+Push 48
+Push 67
+Pop
+Pop
+Push 72
+Push 15
+Pop
+Pop
+Pop
+Pop
+Pop
+Push 2
+Push 6
+Push 4
+Push 3
+Push 8
+Pop
+Push 54
+Push 50
+Push 84
+Push 64
+Pop
+Pop
+Pop
+Pop
+Pop
+Push 93
+Push 40
+Pop
+Pop
+Pop
+Pop
+Push 50
+Push 59
+Pop
+Push 89
+Push 77
+Push 25
+Push 30
+Push 44
+Push 64
+Push 91
+Push 43
+Push 94
+Push 86
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Push 42
+Push 60
+Push 40
+Pop
+Push 72
+Push 33
+Push 92
+Push 76
+Push 59
+Push 70
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Push 89
+Push 84
+Push 76
+Push 66
+Push 80
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop
+Pop

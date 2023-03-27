@@ -1,0 +1,14 @@
+Codey Sivley
+How Many Pizzas?
+01/08/2020
+
+=======================================
+For 12 people, order 8 10 inch pizzas.
+
+=======================================
+For 17 people, order 8 12 inch pizzas.
+
+=======================================
+For 24 people, order 8 15 inch pizzas.
+
+=======================================

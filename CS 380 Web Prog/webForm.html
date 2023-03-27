@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Codey Sivley - Web Form</title>
+	<meta charset = "utf-8">
+</head>
+<body style="background-color:lightgray;">
+
+<h1>Codey Sivley - Web Form</h1>
+<p>This is Codey's Cool Cat application. This application will let you know if you're a Cool Cat.</p>
+ <form>
+ <!-- text boxes -->
+	<label for="username">Name:</label><br>
+	<input type="text" id="username" name="username"><br>
+	<label for="age">Age:</label><br>
+	<input type="text" id="age" name="age"><br>
+	<label for="date">Date:</label><br>
+	<input type="text" id="date" name="date"><br>
+  
+  <!-- radio boxes -->
+	<br>
+	<input type="radio" id="first" name="test_number" value="first" checked>
+	<label for="first">First Cool Cat Test</label><br>
+	<input type="radio" id="second" name="test_number" value="second">
+	<label for="second">Second Cool Cat Test</label><br>
+	<br>
+	
+  <!-- check boxes -->
+  <p>Which sci-fi universe do you like? (Select all you enjoy.)</p>
+  <form>
+  <input type="checkbox" id="starwars" name="starwars" value="starwars">
+  <label for="starwars"> Star Wars</label><br>
+  <input type="checkbox" id="startrek" name="startrek" value="startrek">
+  <label for="startrek"> Star Trek</label><br>
+  <input type="checkbox" id="masseffect" name="masseffect" value="masseffect">
+  <label for="masseffect"> Mass Effect</label><br>
+  </form> 
+  <br>
+	
+  <!-- rankings -->
+	
+<table border=1>
+  <tr>
+    <th>Category</th>
+    <th>Uncool</th>
+    <th>Basic</th>
+    <th>Alright</th>
+    <th>Certified Hipster</th>
+  </tr>
+  
+  <!-- Coffee -->
+  <tr>
+    <td><b>Coffee</b><br>Preferences, Preparation, Taste, and other factors related to good coffee.</td>
+	<td><input type="radio" id="coffeeUncool" name="coffee" value="coffeeUncool" checked>
+	<label for="coffeeUncool">"Eww, I don't like coffee."<br>
+	"Why would you drink something so bitter?"<br>
+	"Monster Energy drinks are better for waking up."</label></td>
+		<td><input type="radio" id="coffeeBasic" name="coffee" value="coffeeBasic">
+	<label for="coffeeBasic">"I love white mocha!"<br>
+	"I'll drink it if it has a lot of cream and sugar."<br>
+	"Can I have a frappuchino?"</label></td>
+		<td><input type="radio" id="coffeeAlright" name="coffee" value="coffeeAlright">
+	<label for="coffeeAlright">"I like my coffee strong."<br>
+	"Iced coffee is good, as long as it's not too sweet."<br>
+	"I own a french press."</label></td>
+	    <td><input type="radio" id="coffeeHipster" name="coffee" value="coffeeHipster">
+	<label for="coffeeHipster">"I only drink the freshest roasts."<br>
+	"I grind my beans no sooner than 30 seconds before brewing."<br>
+	"Adding cream or sugar to coffee ruins the delicate flavor profile."</label></td>
+  </tr>
+  <!-- Music -->
+  <tr>
+    <td><b>Music</b><br>A refined taste in music is a sure sign of a refined character.</td>
+      <td><input type="radio" id="musicUncool" name="music" value="musicUncool" checked>
+	<label for="musicUncool">"I only listen to Top 40."<br>
+	"Kanye West is the greatest artist of our generation."<br>
+	"I go to concerts for the party!"</label></td>
+	    <td><input type="radio" id="musicBasic" name="music" value="musicBasic">
+	<label for="musicBasic">"I like pretty much everything except rap and country."<br>
+	"I go to concerts to enjoy live music!"<br>
+	"Taylor Swift is the greatest artist of our generation."</label></td>
+		<td><input type="radio" id="musicAlright" name="music" value="musicAlright">
+	<label for="musicAlright">"I like some weird stuff."<br>
+	"I support local artists the best I can."<br>
+	"Radiohead is the greatest band of our generation."</label></td>
+		<td><input type="radio" id="musicHipster" name="music" value="musicHipster">
+	<label for="musicHipster">"You have never heard of the music that I like."<br>
+	"I only listen to music on vinyl."<br>
+	"Music? I only listen to algortihmic microtonal ambient generative synthesis."</label></td>
+  </tr>
+  
+  <!-- Video Games -->
+    <tr>
+    <td><b>Video Games</b><br>A person's taste in video games reveals a lot about them.</td>
+      <td><input type="radio" id="vgUncool" name="vg" value="vgUncool" checked>
+	<label for="vgUncool">"Video games? Like for kids?"<br>
+	"Candy Crush is a video game, right?"<br></label></td>
+	    <td><input type="radio" id="vgBasic" name="vg" value="vgBasic">
+	<label for="vgBasic">"Destiny is fun with friends."<br>
+	"I play most of my games on console."<br>
+	"I'll admit it. I play Fortnite more than my kids."</label></td>
+		<td><input type="radio" id="vgAlright" name="vg" value="vgAlright">
+	<label for="vgAlright">"RPGs are the best form of video game."<br>
+	"I play a game for the story more than multiplayer."<br>
+	"I've played all the Assassin's Creed series."</label></td>
+		<td><input type="radio" id="vgHipster" name="vg" value="vgHipster">
+	<label for="vgHipster">"Games are an art form."<br>
+	"If your game doesn't give me an existential crisis, it's boring."<br>
+	"Indie games are the only real video games in a sea of commercial AAA titles."</label></td>
+  </tr>
+  </table>
+  <br>
+  <input type="submit" value="Submit">
+</form> 
+  <p><i>By completing this form, you are a bonafide Cool Cat. The rules were made up and the points don't matter.<br>
+  Search your heart and you will find you were always cool.</i></p>

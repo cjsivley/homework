@@ -1,0 +1,11 @@
+Codey Sivley
+Senior Citizen Property Tax
+01/08/2020
+
+=======================================
+Property Value : $158000.00
+Assessed Value : $94800.00
+Payable : $89800.00
+Tax Due : $2370.72
+Four quarterly payments: $592.68 each.
+---------------------------------------

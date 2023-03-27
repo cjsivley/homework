@@ -1,0 +1,3 @@
+﻿  HashCS732.cpp
+C:\Users\Codey\Documents\CS 372\HashCS732\HashCS732\HashCS732.cpp(139,21): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  HashCS732.vcxproj -> C:\Users\Codey\Documents\CS 372\HashCS732\Debug\HashCS732.exe

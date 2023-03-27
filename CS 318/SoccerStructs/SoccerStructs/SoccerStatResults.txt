@@ -1,0 +1,21 @@
+Codey Sivley
+Soccer Statistics 318 Result
+02/17/2020
+========================================
+Name		ID	Total Goals
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ball Masher	7291	17	
+Big Phoot	8224	20	
+Golden Tow	3821	18	
+Goldie Oldie	5345	16	
+Hop Along	1313	12	
+Lite Foot	7322	10	
+Slick Slider	6342	4	
+Stopper Topper	8421	17	
+T Threader	7282	17	
+Thomas Beesbie	2313	7	
+Turn Anrun	9211	8	
+Twinkle Toes	3824	8	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Team Total Goals: 154 goals.
+Highest Scorer: Big Phoot, 20 goals.

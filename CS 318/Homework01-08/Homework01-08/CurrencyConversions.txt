@@ -1,0 +1,12 @@
+Codey Sivley
+Currency Conversion
+01/08/2020
+
+=======================================
+Currency............Value in US Dollars
+---------------------------------------
+US Dollars          100.00            
+Swedish Krona       947.00            
+Belize Dollar       202.00            
+Tonga Paanga        229.00            
+---------------------------------------

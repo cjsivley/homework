@@ -1,0 +1,89 @@
+Codey Sivley
+Array Workout 1D 318 Result
+01/27/2020
+
+=======================================
+
+1. Read in the values into the array.  The input is found in     array.dat
+
+2. Print out all the values in the array with no more than 10 numbers per output line.
+24 43 63 -72 73 72 77 23 36 94 
+28 93 9 92 -8 83 -36 73 5 38 
+56 17 93 80 99 26 19 62 72 8 
+4 48 21 54 84 32 97 74 94 82 
+57 4 38 27 83 83 22 27 64 7 
+44 26 45 66 83 62 52 -7 -36 62 
+78 -67 34 73 93 8 -3 -2 2 27 
+1 11 12 -73 83 77 37 72 82 23 
+
+3. Print out the average of the set of numbers.
+Average: 41.36
+
+4. Print out how many values are larger than the average and how many are smaller than the average.  Pass average as a parameter.
+Larger: 41
+Smaller: 39
+
+5. Convert every negative number to a positive number.  Print out the array.
+24 43 63 72 73 72 77 23 36 94 
+28 93 9 92 8 83 36 73 5 38 
+56 17 93 80 99 26 19 62 72 8 
+4 48 21 54 84 32 97 74 94 82 
+57 4 38 27 83 83 22 27 64 7 
+44 26 45 66 83 62 52 7 36 62 
+78 67 34 73 93 8 3 2 2 27 
+1 11 12 73 83 77 37 72 82 23 
+
+6. Print out the average of the set of numbers.
+Average: 48.96
+
+7. Find the largest number and print out the number and its position.
+The largest number is 99 at position 24.
+
+8. Find the smallest number and print out the number and its position.
+The smallest number is 1 at position 70.
+
+9. Zero out all even numbers in the array and print out the array.
+0 43 63 0 73 0 77 23 0 0 
+0 93 9 0 0 83 0 73 5 0 
+0 17 93 0 99 0 19 0 0 0 
+0 0 21 0 0 0 97 0 0 0 
+57 0 0 27 83 83 0 27 0 7 
+0 0 45 0 83 0 0 7 0 0 
+0 67 0 73 93 0 3 0 0 27 
+1 11 0 73 83 77 37 0 0 23 
+
+10. Print out the average for the new array.
+Average: 23.44
+
+11. How many values in the array (above) are less than (first input)?
+There are 58 items less than 28.
+
+12. How many values in the array are greater than (second input)?
+There are 19 items larger than 50.
+
+13. How many data elements in the array are greater than the (third input)th data element in the array?  (That would be ary[input]???) 
+There are 25 items larger than 23.
+
+14. How many numbers in the array are multiples of (fourth input) and (fifth input)?
+There are 6 items that are multiples of 7.
+There are 4 items that are multiples of 11.
+
+15. Create a second array.  Copy all the data elements from the first array to the second array.  Print out the second array
+0 43 63 0 73 0 77 23 0 0 
+0 93 9 0 0 83 0 73 5 0 
+0 17 93 0 99 0 19 0 0 0 
+0 0 21 0 0 0 97 0 0 0 
+57 0 0 27 83 83 0 27 0 7 
+0 0 45 0 83 0 0 7 0 0 
+0 67 0 73 93 0 3 0 0 27 
+1 11 0 73 83 77 37 0 0 23 
+
+16. Now copy all the data elements from the first array to the second array in reverse order.  Print out the second array.
+23 0 0 37 77 83 73 0 11 1 
+27 0 0 3 0 93 73 0 67 0 
+0 0 7 0 0 83 0 45 0 0 
+7 0 27 0 83 83 27 0 0 57 
+0 0 0 97 0 0 0 21 0 0 
+0 0 0 19 0 99 0 93 17 0 
+0 5 73 0 83 0 0 9 93 0 
+0 0 23 77 0 73 0 63 43 0 

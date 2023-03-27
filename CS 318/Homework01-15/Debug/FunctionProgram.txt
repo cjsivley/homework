@@ -1,0 +1,37 @@
+Codey Sivley
+Function Program
+01/15/2020
+=======================================
+print out 5 numbers
+8.243
+15.582
+9.732
+16.513
+5.826
+print out sum of 5 numbers
+55.896
+print out average of 5 numbers
+11.179
+print difference between the first number and the fifth number
+2.417
+print difference between second and fourth number
+-0.931
+print first number raised to the third number power
+1448281472.000
+print second number raised to the fifth number power
+14313280.000
+print largest of 5 numbers
+16.513
+print smallest of 5 numbers
+5.826
+print average of four largest values
+12.517
+print average of four smallest values
+9.846
+print running total of the five numbers
+8.243
+23.825
+33.557
+50.070
+55.896
+=======================================

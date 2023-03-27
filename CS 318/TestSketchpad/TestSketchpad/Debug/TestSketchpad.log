@@ -1,0 +1,4 @@
+﻿  TestSketchpad.cpp
+C:\Users\Codey\Documents\CS 318\TestSketchpad\TestSketchpad\TestSketchpad.cpp(20,10): warning C4101: 'c1': unreferenced local variable
+C:\Users\Codey\Documents\CS 318\TestSketchpad\TestSketchpad\TestSketchpad.cpp(21,10): warning C4101: 'c2': unreferenced local variable
+  TestSketchpad.vcxproj -> C:\Users\Codey\Documents\CS 318\TestSketchpad\Debug\TestSketchpad.exe

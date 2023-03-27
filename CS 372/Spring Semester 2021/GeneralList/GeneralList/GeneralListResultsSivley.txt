@@ -1,0 +1,46 @@
+General List Results
+Codey Sivley 2/2/2021
+CS372
+List a : 
+  ( 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 )
+Number of elements in a - 20
+List b : 
+  ( 10 9 8 7 6 5 4 3 2 1 )
+Number of elements in b - 10
+List a & b are Not equal
+First elmenet in list a & b: 1, 10
+Last elmenet in list a & b: 1, 10
+
+
+ Start of new stuff
+Empty List b:  ( )
+List a & b are Not equal
+List b : 
+( 50 45 40 35 30 25 20 15 10 5 )
+Modified Object 'a' (shorter) 
+List a: ( 1 2 3 4 5 18 7 8 9 10 11 12 13 14 15 16 17 )
+Modified Object 'b' 
+List b: ( 6 20 19 35 30 25 20 15 10 5 )
+Copy Constructor c(b)
+List b : ( 6 20 19 10 9 8 7 6 5 4 3 2 1 35 30 25 20 15 10 5 )
+List c : ( 6 20 19 10 9 8 7 6 5 4 3 2 1 35 30 25 20 15 10 5 )
+List c & b are equal
+Object 'c' assigned to Object 'e':
+List c : ( 6 20 19 10 9 8 7 6 5 4 3 2 1 35 30 25 20 15 10 5 )
+List e : ( 6 20 19 10 9 8 7 6 5 4 3 2 1 35 30 25 20 15 10 5 )
+Results after some inserts on b 
+List b : ( 6 20 19 10 9 8 7 6 5 4 3 2 1 35 30 25 20 15 10 5 )
+Results after some weird stuff on list a
+List a : ( 1 2 5 4 9 18 13 8 17 10 21 12 25 14 29 16 145 )
+New List alist with positions above: 
+    0    1    2    3    4    5    6    7    8    9
+    1    2    3    4    5    6    7    8    9   10
+show 'alist' object after 'd+= alist' ( 1 2 3 4 5 6 7 8 9 10 )
+    1    2    3    4    5    6    7    8    9   10show 'd' object after 'd+= alist' ( 1 2 3 4 5 6 7 8 9 10 )
+    1    2    3    4    5    6    7    8    9   10
+  check out boundary conditions
+number of elements in empty sq list = 0
+empty sq values ( )
+sq values ( 3333 )
+sq.getElement() = 3333
+sq list = ( 3333 )

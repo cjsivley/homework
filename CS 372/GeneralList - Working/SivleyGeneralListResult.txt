@@ -1,0 +1,41 @@
+List a : 
+  ( 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 )
+Number of elements in a - 20
+List b : 
+  ( 30 27 24 21 18 15 12 9 6 3 )
+Number of elements in b - 10
+List a & b are Not equal
+First elmenet in list a & b: 2, 30
+Last elmenet in list a & b: 40, 3
+
+
+ Start of new stuff
+Empty List b:  ( )
+List a & b are Not equal
+List b : 
+( 30 27 24 21 18 15 12 9 6 50 )
+Modified Object 'a' (shorter) 
+List a: ( 2 4 6 8 10 36 14 16 18 20 22 24 26 28 30 32 34 )
+Modified Object 'b' 
+List b: ( 1 2 3 21 18 15 12 9 6 50 )
+Copy Constructor c(b)
+List b : ( 1 2 3 21 18 15 12 9 6 50 )
+List c : ( 1 2 3 21 18 15 12 9 6 50 )
+List c & b are equal
+Object 'c' assigned to Object 'e':
+List c : ( 1 2 3 21 18 15 12 9 6 50 )
+List e : ( 1 2 3 21 18 15 12 9 6 50 )
+Results after some Replaces on d 
+List d : ( -4 2 -8 4 -12 6 8 10 36 14 16 18 20 22 24 26 28 30 32 34 )
+Results after some weird stuff on list a
+List a : ( 2 4 8 8 14 36 20 16 26 20 32 24 38 28 44 32 162 )
+New List alist with positions above: 
+    0    1    2    3    4    5    6    7    8    9
+    1    2    3   21    1    2    3    4    5    6
+
+  check out boundary conditions
+number of elements in empty sq list = 0
+empty sq values ( )
+sq values ( 777 )
+sq.getElement() = 777
+sq list = ( 777 )

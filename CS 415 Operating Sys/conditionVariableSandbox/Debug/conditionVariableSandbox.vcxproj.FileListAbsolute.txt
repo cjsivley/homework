@@ -1,0 +1,2 @@
+C:\Users\User\Documents\CS 415 Operating Sys\conditionVariableSandbox\Debug\conditionVariableSandbox.exe
+C:\Users\User\Documents\CS 415 Operating Sys\conditionVariableSandbox\Debug\conditionVariableSandbox.pdb
